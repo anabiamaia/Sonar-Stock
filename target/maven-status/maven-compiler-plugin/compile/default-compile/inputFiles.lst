@@ -1,0 +1,6 @@
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/StockApplication.java
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/service/StockService.java
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/repository/StockRepository.java
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/controller/StockController.java
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/model/Stock.java
+/home/ana-silva1/Documentos/SOLINFTEC/DESAFIO LEO/sonar-Stock/src/main/java/com/stock/stock/dto/stock/GetAllStockDto.java
